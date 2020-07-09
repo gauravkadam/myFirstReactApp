@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    list-style: none;
+    background-color: #1c72e8;
+    color: white;
+}
+
+ul li {
+    padding: 20px;
+    cursor: pointer;
+}
