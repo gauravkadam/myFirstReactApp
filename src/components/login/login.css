@@ -1,0 +1,7 @@
+form{
+    display: inline-table;
+}
+
+form input {
+    display: block;
+}
